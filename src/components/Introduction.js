@@ -5,7 +5,7 @@ const Introduction = () => {
   return (
     <div className="introduction">
       <div className="profile-picture">
-        <img src={require('./pfp.jpg')} />
+        <img src={require('./pfp.jpg')} alt='picture'/>
       </div>
       <div className="introduction-content">
         <h2 className="name">Arihan Awasthi</h2> 
