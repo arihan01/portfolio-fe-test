@@ -1,0 +1,64 @@
+.contact-links {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.contact-box1 {
+    background-color: #ff314c;
+    padding: 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: larger;
+    /* Additional styling for the contact boxes */
+}
+
+.contact-box1:hover {
+    cursor: pointer;
+    background-color: #e22e2e;
+}
+
+.contact-box2 {
+    background-color: #388eff;
+    padding: 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: larger;
+
+    /* Additional styling for the contact boxes */
+}
+
+.contact-box2:hover {
+    cursor: pointer;
+    background-color: #3877cc;
+}
+
+.contact-box3 {
+    background-color: #2aff82;
+    padding: 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: larger;
+
+    /* Additional styling for the contact boxes */
+}
+
+.contact-box3:hover {
+    cursor: pointer;
+    background-color: #22e071;
+}
+
+.contact-box4 {
+    background-color: #f700ff;
+    padding: 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: larger;
+
+    /* Additional styling for the contact boxes */
+}
+
+.contact-box4:hover {
+    cursor: pointer;
+    background-color: #d200da;
+}

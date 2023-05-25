@@ -1,0 +1,16 @@
+.introduction {
+  background-color: #1f1f1f;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.profile-picture {
+  width: 30%;
+  /* Additional styling for your profile picture */
+}
+
+.introduction-content {
+  width: 70%;
+  /* Additional styling for the introduction content */
+}
